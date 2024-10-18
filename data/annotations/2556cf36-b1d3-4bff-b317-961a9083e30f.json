@@ -171,18 +171,23 @@
     },
     {
       "start_time": 161,
-      "end_time": 0,
+      "end_time": 176,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": ""
+              "text": "Feeling! x8"
             }
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Kevin Aviance"
+        }
+      ],
       "uuid": "3a37d046-d960-4352-80fe-6725d356712a"
     }
   ],
