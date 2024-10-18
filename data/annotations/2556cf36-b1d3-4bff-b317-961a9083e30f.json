@@ -189,6 +189,27 @@
         }
       ],
       "uuid": "3a37d046-d960-4352-80fe-6725d356712a"
+    },
+    {
+      "start_time": 295,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Cunty"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Kevin Aviance"
+        }
+      ],
+      "uuid": "b6775d58-b41a-442e-b271-084d33c4ad90"
     }
   ],
   "event_id": "cd70d166-1272-4f99-b885-67362d606460",
