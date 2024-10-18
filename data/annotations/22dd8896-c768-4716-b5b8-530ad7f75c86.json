@@ -1,5 +1,47 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 82,
+      "end_time": 90,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Feels like plus performative marking play with sound"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Kevin JZ Prodigy "
+        },
+        {
+          "category": "Ballroom Genre",
+          "tag": "performance marking"
+        },
+        {
+          "category": "Ballroom Genre",
+          "tag": "adlibs"
+        },
+        {
+          "category": "Ballroom Genre",
+          "tag": "repitition"
+        },
+        {
+          "category": "Black LGBTQ+ expression",
+          "tag": "discourse"
+        },
+        {
+          "category": "Black LGBTQ+ expression",
+          "tag": "sound"
+        }
+      ],
+      "uuid": "05ec5b95-77e3-40a3-b04a-2817ba1c9cbb"
+    }
+  ],
   "event_id": "d70c377d-d561-4348-9997-4d7cc7214c28",
   "set": "Feeling!",
   "source_id": "d571e993-4747-4bb8-aaeb-0f7cfe96a8a5"
