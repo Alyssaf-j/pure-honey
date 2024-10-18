@@ -2,7 +2,7 @@
   "annotations": [
     {
       "start_time": 39,
-      "end_time": 50,
+      "end_time": 46,
       "annotation": [
         {
           "type": "paragraph",
@@ -13,7 +13,12 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Kevin Aviance"
+        }
+      ],
       "uuid": "8c0344e4-e175-4f6c-802b-e4688ce1907e"
     }
   ],
