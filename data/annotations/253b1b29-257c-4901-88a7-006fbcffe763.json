@@ -48,6 +48,51 @@
         }
       ],
       "uuid": "6f13a514-7a0e-4755-9d4b-e18c205361c7"
+    },
+    {
+      "start_time": 24,
+      "end_time": 35,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We have an example of anomonapoetics for the first time, a Black queer repertoire of sound and performance"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Kevin JZ Prodigy "
+        },
+        {
+          "category": "Ballroom Genre",
+          "tag": "performance marking"
+        },
+        {
+          "category": "Ballroom Genre",
+          "tag": "storytelling"
+        },
+        {
+          "category": "Ballroom Genre",
+          "tag": "repitition"
+        },
+        {
+          "category": "Ballroom Genre",
+          "tag": "anomonapoetics"
+        },
+        {
+          "category": "Black LGBTQ+ expression",
+          "tag": "discourse"
+        },
+        {
+          "category": "Black LGBTQ+ expression",
+          "tag": "sound"
+        }
+      ],
+      "uuid": "2ccc47a8-ad71-4f02-921e-fbb65d825a1e"
     }
   ],
   "event_id": "d70c377d-d561-4348-9997-4d7cc7214c28",
