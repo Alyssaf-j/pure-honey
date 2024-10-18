@@ -1,5 +1,47 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 70,
+      "end_time": 99,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Kevin Aviance"
+        },
+        {
+          "category": "Ballroom Genre",
+          "tag": "storytelling"
+        },
+        {
+          "category": "Ballroom Genre",
+          "tag": "repitition"
+        },
+        {
+          "category": "Black LGBTQ+ expression",
+          "tag": "discourse"
+        },
+        {
+          "category": "Black LGBTQ+ expression",
+          "tag": "embodied performance"
+        },
+        {
+          "category": "Black LGBTQ+ expression",
+          "tag": "sound"
+        }
+      ],
+      "uuid": "534c74b0-f1cb-4892-a648-a2cad46bd85e"
+    }
+  ],
   "event_id": "cd70d166-1272-4f99-b885-67362d606460",
   "set": "Feeling!",
   "source_id": "b31a23fb-3258-4906-a6bc-9d36d8d9de0a"
