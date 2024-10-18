@@ -1,5 +1,22 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 39,
+      "end_time": 50,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "8c0344e4-e175-4f6c-802b-e4688ce1907e"
+    }
+  ],
   "event_id": "cd70d166-1272-4f99-b885-67362d606460",
   "set": "Transcription",
   "source_id": "b31a23fb-3258-4906-a6bc-9d36d8d9de0a"
