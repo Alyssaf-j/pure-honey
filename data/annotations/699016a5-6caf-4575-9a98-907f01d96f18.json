@@ -1,5 +1,31 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Kevin Aviance"
+        },
+        {
+          "category": "Sound",
+          "tag": "sampling"
+        }
+      ],
+      "uuid": "cc72e8ed-ba28-4a6a-b757-942a64ba52f4"
+    }
+  ],
   "event_id": "b5f71bb7-c18a-4c43-8205-20d9d33a1bb1",
   "set": "Annotation Set 1",
   "source_id": "ef7da723-3c07-4983-bba4-2ffff32d37e8"
