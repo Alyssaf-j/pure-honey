@@ -28,6 +28,27 @@
         }
       ],
       "uuid": "8c0344e4-e175-4f6c-802b-e4688ce1907e"
+    },
+    {
+      "start_time": 70,
+      "end_time": 100,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Feeling cunt, feeling tea"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Kevin Aviance"
+        }
+      ],
+      "uuid": "60a8140f-56d2-43dc-8693-35bf6e6c823b"
     }
   ],
   "event_id": "cd70d166-1272-4f99-b885-67362d606460",
