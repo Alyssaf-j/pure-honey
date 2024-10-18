@@ -118,6 +118,43 @@
         }
       ],
       "uuid": "b7879c8e-b3a6-409a-87cd-453102543f42"
+    },
+    {
+      "start_time": 70,
+      "end_time": 99,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Aviance moves slowly between the phrases “Feeling cunt, feeling tea”, which gradually gets sped up into the signature mix of “cunt-tea” and the eventual “Cunty” repetition sampled by “PURE/HONEY”. The compounding of words /cunt/ and /tea/ not only represent a linguistic innovation but also a semantic shift of the two words into one: /cunty/"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Kevin Aviance"
+        },
+        {
+          "category": "Ballroom Genre",
+          "tag": "repitition"
+        },
+        {
+          "category": "Black LGBTQ+ expression",
+          "tag": "sound"
+        },
+        {
+          "category": "Sound",
+          "tag": "remixing"
+        },
+        {
+          "category": "Sound",
+          "tag": "sampling"
+        }
+      ],
+      "uuid": "fe57b6f6-4643-403b-a671-35bc71d6648a"
     }
   ],
   "event_id": "cd70d166-1272-4f99-b885-67362d606460",
