@@ -13,7 +13,28 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Black LGBTQ+ expression",
+          "tag": "discourse"
+        },
+        {
+          "category": "Black LGBTQ+ expression",
+          "tag": "embodied performance"
+        },
+        {
+          "category": "Ballroom Genre",
+          "tag": "repitition"
+        },
+        {
+          "category": "Ballroom Genre",
+          "tag": "storytelling"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Kevin Aviance"
+        }
+      ],
       "uuid": "eca44646-8382-47ea-a02a-ee3994c117ff"
     }
   ],
