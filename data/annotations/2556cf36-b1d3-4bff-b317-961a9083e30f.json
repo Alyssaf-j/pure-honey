@@ -97,6 +97,27 @@
       ],
       "tags": [],
       "uuid": "a2c8eb8f-a25b-4738-8fbc-7c6123bd9b8e"
+    },
+    {
+      "start_time": 117,
+      "end_time": 130,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Kevin Aviance"
+        }
+      ],
+      "uuid": "6b32fa5a-37c0-441b-829a-13b00b9b6786"
     }
   ],
   "event_id": "cd70d166-1272-4f99-b885-67362d606460",
