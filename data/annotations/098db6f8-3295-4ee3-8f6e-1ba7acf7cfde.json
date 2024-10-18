@@ -1,5 +1,39 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 1,
+      "end_time": 13,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The introduction of the song is a repetitive percussive/horn element that serves as the foundation of the beat and eventual layering of other percussive elements. The use of camera flash sounds (not present in the sample \"PURE/HONEY\") provides an extra visual element, demanding the listener to focus on Aviance's critical vision of self."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Kevin Aviance"
+        },
+        {
+          "category": "Ballroom Genre",
+          "tag": "repitition"
+        },
+        {
+          "category": "Black LGBTQ+ expression",
+          "tag": "embodied performance"
+        },
+        {
+          "category": "Sound",
+          "tag": "percussive element"
+        }
+      ],
+      "uuid": "5d371254-e0f4-4c47-804e-dfeb7454f355"
+    }
+  ],
   "event_id": "cd70d166-1272-4f99-b885-67362d606460",
   "set": "Annotation Set 1",
   "source_id": "b31a23fb-3258-4906-a6bc-9d36d8d9de0a"
