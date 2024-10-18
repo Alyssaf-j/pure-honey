@@ -77,6 +77,47 @@
         }
       ],
       "uuid": "367bf25c-29d2-4d15-af73-a0d26c52d2fe"
+    },
+    {
+      "start_time": 47,
+      "end_time": 61,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The adlib repitition of \"cun-\" is present and similarly sampled in \"PURE/HONEY\". This is an example of remixing and repetition that interjects on language legibility, privileging sound to repeat the unit 'cun-' to create a repetitive beat alongside the percussive elements."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Kevin Aviance"
+        },
+        {
+          "category": "Ballroom Genre",
+          "tag": "performance marking"
+        },
+        {
+          "category": "Ballroom Genre",
+          "tag": "adlibs"
+        },
+        {
+          "category": "Ballroom Genre",
+          "tag": "repitition"
+        },
+        {
+          "category": "Black LGBTQ+ expression",
+          "tag": "sound"
+        },
+        {
+          "category": "Sound",
+          "tag": "remixing"
+        }
+      ],
+      "uuid": "b7879c8e-b3a6-409a-87cd-453102543f42"
     }
   ],
   "event_id": "cd70d166-1272-4f99-b885-67362d606460",
