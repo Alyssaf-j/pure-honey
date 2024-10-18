@@ -8,7 +8,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "undefined"
+              "text": "Beginning of \"PURE/HONEY\" samples alongside the song"
             }
           ]
         }
@@ -21,6 +21,18 @@
         {
           "category": "Sound",
           "tag": "sampling"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Kevin Aviance"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Moi Renée"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Kevin JZ Prodigy "
         }
       ],
       "uuid": "218514ac-af84-4095-b2cb-d53e072d7dbc"
