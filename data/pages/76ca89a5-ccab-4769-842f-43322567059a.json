@@ -1,0 +1,15 @@
+{
+  "content": [],
+  "created_at": "2024-10-18T06:00:11.590Z",
+  "created_by": "Alyssaf-j",
+  "title": "Sample 3",
+  "slug": "sample-3-2",
+  "updated_at": "2024-10-18T06:00:11.590Z",
+  "updated_by": "Alyssaf-j",
+  "parent": "cc55f6c5-9a38-46b5-8eb9-a4a44027c5c8",
+  "autogenerate": {
+    "enabled": true,
+    "type": "event",
+    "type_id": "f5a4524f-3554-4be7-adfa-19d2677c1ce3"
+  }
+}
