@@ -1,5 +1,31 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 497,
+      "end_time": 621,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "undefined"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Beyoncé"
+        },
+        {
+          "category": "Sound",
+          "tag": "sampling"
+        }
+      ],
+      "uuid": "218514ac-af84-4095-b2cb-d53e072d7dbc"
+    }
+  ],
   "event_id": "b5f71bb7-c18a-4c43-8205-20d9d33a1bb1",
   "set": "Annotation Set 1",
   "source_id": "ef7da723-3c07-4983-bba4-2ffff32d37e8"
