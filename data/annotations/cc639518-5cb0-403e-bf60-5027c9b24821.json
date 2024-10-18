@@ -1,5 +1,22 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 70,
+      "end_time": 99,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "eca44646-8382-47ea-a02a-ee3994c117ff"
+    }
+  ],
   "event_id": "cd70d166-1272-4f99-b885-67362d606460",
   "set": "Feeling!",
   "source_id": "b31a23fb-3258-4906-a6bc-9d36d8d9de0a"
