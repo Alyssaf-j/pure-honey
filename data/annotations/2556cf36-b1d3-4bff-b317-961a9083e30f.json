@@ -123,6 +123,22 @@
         }
       ],
       "uuid": "6b32fa5a-37c0-441b-829a-13b00b9b6786"
+    },
+    {
+      "start_time": 131,
+      "end_time": 150,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "5f77add6-1d9d-4a16-8bb3-6b2764cf304a"
     }
   ],
   "event_id": "cd70d166-1272-4f99-b885-67362d606460",
