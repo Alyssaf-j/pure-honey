@@ -32,6 +32,47 @@
         }
       ],
       "uuid": "5d371254-e0f4-4c47-804e-dfeb7454f355"
+    },
+    {
+      "start_time": 14,
+      "end_time": 38,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Kevin Aviance"
+        },
+        {
+          "category": "Ballroom Genre",
+          "tag": "performance marking"
+        },
+        {
+          "category": "Ballroom Genre",
+          "tag": "repitition"
+        },
+        {
+          "category": "Black LGBTQ+ expression",
+          "tag": "sound"
+        },
+        {
+          "category": "Black LGBTQ+ expression",
+          "tag": "embodied performance"
+        },
+        {
+          "category": "Sound",
+          "tag": "percussive element"
+        }
+      ],
+      "uuid": "367bf25c-29d2-4d15-af73-a0d26c52d2fe"
     }
   ],
   "event_id": "cd70d166-1272-4f99-b885-67362d606460",
