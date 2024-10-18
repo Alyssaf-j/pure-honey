@@ -161,7 +161,12 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Kevin Aviance"
+        }
+      ],
       "uuid": "5f77add6-1d9d-4a16-8bb3-6b2764cf304a"
     }
   ],
