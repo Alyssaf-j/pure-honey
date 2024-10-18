@@ -126,13 +126,37 @@
     },
     {
       "start_time": 131,
-      "end_time": 150,
+      "end_time": 160,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": ""
+              "text": "Feeling! like a daisy, "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Feeling, like a lily, "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Feeling, a rose,  "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Feeling like an orchid! x2"
             }
           ]
         }
