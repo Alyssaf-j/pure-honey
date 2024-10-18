@@ -1,5 +1,55 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 24,
+      "end_time": 33,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Kevin JZ Prodigy "
+        },
+        {
+          "category": "Ballroom Genre",
+          "tag": "performance marking"
+        },
+        {
+          "category": "Ballroom Genre",
+          "tag": "storytelling"
+        },
+        {
+          "category": "Ballroom Genre",
+          "tag": "anomonapoetics"
+        },
+        {
+          "category": "Ballroom Genre",
+          "tag": "repitition"
+        },
+        {
+          "category": "Black LGBTQ+ expression",
+          "tag": "discourse"
+        },
+        {
+          "category": "Black LGBTQ+ expression",
+          "tag": "sound"
+        },
+        {
+          "category": "Sound",
+          "tag": "percussive element"
+        }
+      ],
+      "uuid": "6f13a514-7a0e-4755-9d4b-e18c205361c7"
+    }
+  ],
   "event_id": "d70c377d-d561-4348-9997-4d7cc7214c28",
   "set": "Annotation Set 1",
   "source_id": "d571e993-4747-4bb8-aaeb-0f7cfe96a8a5"
