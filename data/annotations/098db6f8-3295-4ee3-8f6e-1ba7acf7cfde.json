@@ -155,6 +155,47 @@
         }
       ],
       "uuid": "fe57b6f6-4643-403b-a671-35bc71d6648a"
+    },
+    {
+      "start_time": 100,
+      "end_time": 116,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is an example of a Black queering of sound through mixing. Aviance is innovating on language as well as sound, crossing linguistic boundaries and imbuing new semantic content that would otherwise be lost in the sample of the song in \"PURE/HONEY\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Kevin Aviance"
+        },
+        {
+          "category": "Ballroom Genre",
+          "tag": "repitition"
+        },
+        {
+          "category": "Black LGBTQ+ expression",
+          "tag": "discourse"
+        },
+        {
+          "category": "Black LGBTQ+ expression",
+          "tag": "sound"
+        },
+        {
+          "category": "Sound",
+          "tag": "remixing"
+        },
+        {
+          "category": "Sound",
+          "tag": "sampling"
+        }
+      ],
+      "uuid": "a8f84132-0a04-49f5-af31-365bd263cc4b"
     }
   ],
   "event_id": "cd70d166-1272-4f99-b885-67362d606460",
