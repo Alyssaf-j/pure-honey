@@ -39,11 +39,11 @@
   "created_by": "Alyssaf-j",
   "title": "Sample 1: \"Cunty (Feels Like)\" by Kevin Aviance",
   "slug": "sample-1-cunty-feels-like-by-kevin-avian",
-  "updated_at": "2025-01-06T01:30:25.646Z",
+  "updated_at": "2025-01-06T02:10:02.426Z",
   "updated_by": "Alyssaf-j",
   "parent": "cc55f6c5-9a38-46b5-8eb9-a4a44027c5c8",
   "autogenerate": {
-    "enabled": false,
+    "enabled": true,
     "type": "event",
     "type_id": "cd70d166-1272-4f99-b885-67362d606460"
   }
