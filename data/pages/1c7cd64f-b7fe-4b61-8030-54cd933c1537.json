@@ -4,11 +4,11 @@
   "created_by": "Alyssaf-j",
   "title": "Sample 2: \"Miss Honey\" by Moi Renée",
   "slug": "sample-2-miss-honey-by-moi-renee-2",
-  "updated_at": "2024-10-18T02:02:26.732Z",
+  "updated_at": "2025-01-06T01:31:09.782Z",
   "updated_by": "Alyssaf-j",
   "parent": "cc55f6c5-9a38-46b5-8eb9-a4a44027c5c8",
   "autogenerate": {
-    "enabled": true,
+    "enabled": false,
     "type": "event",
     "type_id": "19919b57-f3f2-4582-ab40-82f00f3b1975"
   }
