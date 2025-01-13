@@ -433,22 +433,6 @@
       "uuid": "5813b22f-276d-4f9e-83a0-48d45bbb0603"
     },
     {
-      "start_time": 87,
-      "end_time": 89,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Miss Honey, Honey, Honey, Miss Honey"
-            }
-          ]
-        }
-      ],
-      "tags": [],
-      "uuid": "5f207b57-fbfc-4be3-be37-4e2083114a81"
-    },
-    {
       "start_time": 90,
       "end_time": 93,
       "annotation": [
