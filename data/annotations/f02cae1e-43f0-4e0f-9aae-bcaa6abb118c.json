@@ -417,22 +417,6 @@
       "uuid": "f93c77d5-42f5-48b6-b06a-f356330a963d"
     },
     {
-      "start_time": 52,
-      "end_time": 55,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "I know you hear me calling you, Miss Honey"
-            }
-          ]
-        }
-      ],
-      "tags": [],
-      "uuid": "a1efca75-9060-4fe1-9b95-ebdd33e257dd"
-    },
-    {
       "start_time": 56,
       "end_time": 57,
       "annotation": [
