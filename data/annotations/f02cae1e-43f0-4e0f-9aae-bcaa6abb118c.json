@@ -417,22 +417,6 @@
       "uuid": "f93c77d5-42f5-48b6-b06a-f356330a963d"
     },
     {
-      "start_time": 63,
-      "end_time": 64,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "The bitch knew that I'd be back"
-            }
-          ]
-        }
-      ],
-      "tags": [],
-      "uuid": "1c2738d7-cd4d-4054-8920-3858ee849d8f"
-    },
-    {
       "start_time": 65,
       "end_time": 66,
       "annotation": [
