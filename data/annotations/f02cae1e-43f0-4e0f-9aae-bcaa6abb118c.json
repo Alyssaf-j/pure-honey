@@ -417,22 +417,6 @@
       "uuid": "f93c77d5-42f5-48b6-b06a-f356330a963d"
     },
     {
-      "start_time": 56,
-      "end_time": 57,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Don't you hear me calling you?"
-            }
-          ]
-        }
-      ],
-      "tags": [],
-      "uuid": "51c8c4ee-ae10-459c-a50f-d10e3483c76e"
-    },
-    {
       "start_time": 58,
       "end_time": 62,
       "annotation": [
