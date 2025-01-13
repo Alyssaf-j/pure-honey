@@ -417,22 +417,6 @@
       "uuid": "f93c77d5-42f5-48b6-b06a-f356330a963d"
     },
     {
-      "start_time": 37,
-      "end_time": 40,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Here I am and feeling fierce!"
-            }
-          ]
-        }
-      ],
-      "tags": [],
-      "uuid": "e6490a3e-85ff-48fc-9f5f-da68ac91df87"
-    },
-    {
       "start_time": 41,
       "end_time": 43,
       "annotation": [
