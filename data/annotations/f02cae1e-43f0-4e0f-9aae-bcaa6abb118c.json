@@ -1,5 +1,422 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 5,
+      "end_time": 7,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Miss Honey, Miss Honey"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "4693e5f7-fea6-416b-9d0b-0c728f6aa02e"
+    },
+    {
+      "start_time": 8,
+      "end_time": 11,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Miss Honey, Miss Honey"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "af420adc-a288-4bdf-804e-bf8cdd1641d4"
+    },
+    {
+      "start_time": 12,
+      "end_time": 15,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Miss Honey, Miss Honey"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "9a7f9795-739d-4967-8b12-fede5cecd649"
+    },
+    {
+      "start_time": 16,
+      "end_time": 19,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Miss Honey, Miss Honey"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "74f8bb98-8db8-4417-9b9c-7e4e0ef6dbc5"
+    },
+    {
+      "start_time": 20,
+      "end_time": 23,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Don't you hear me calling you, Miss Honey?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "40eec1db-ab96-48ad-86f1-0f9b26c8df0d"
+    },
+    {
+      "start_time": 24,
+      "end_time": 26,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I know you hear me calling you, Miss Honey"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "f58e51d3-25fd-443f-98d9-b176cb6148b2"
+    },
+    {
+      "start_time": 27,
+      "end_time": 28,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The bitch knew that I'd be back"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "806a3296-3be7-4d47-af0d-112d8603b3ca"
+    },
+    {
+      "start_time": 29,
+      "end_time": 30,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "She knew that I was not gone long,"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "1adb7c38-9a8a-4120-9fe0-8b84e8ea1b54"
+    },
+    {
+      "start_time": 31,
+      "end_time": 34,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Miss Honey, Miss Honey"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "16ed93ae-f561-4af7-b40e-bc0198b6a05a"
+    },
+    {
+      "start_time": 35,
+      "end_time": 36,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Where's the bitch, she's got some nerve"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "d18249d2-5163-4389-86c6-a7e5c6b34e82"
+    },
+    {
+      "start_time": 37,
+      "end_time": 40,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Here I am and feeling fierce!"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "e2ec5b6c-36a4-4cf6-9f9c-6cfb8e3020cf"
+    },
+    {
+      "start_time": 41,
+      "end_time": 43,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Miss Honey, Miss Honey"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "dfd0ad92-a91d-40a6-a339-cfa0aa7892fc"
+    },
+    {
+      "start_time": 44,
+      "end_time": 47,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Miss Honey, Miss Honey"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "606d06ed-6a5e-4c99-8b40-392ef78d1aed"
+    },
+    {
+      "start_time": 48,
+      "end_time": 51,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Don't you hear me calling you, Miss Honey?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "d67e0500-2175-4ada-918d-f03c45672851"
+    },
+    {
+      "start_time": 52,
+      "end_time": 55,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I know you hear me calling you, Miss Honey"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "07ffe965-513a-438d-9bad-64c5420c594c"
+    },
+    {
+      "start_time": 56,
+      "end_time": 57,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Don't you hear me calling you?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "8b56904f-696a-451d-b735-26c17e3c1220"
+    },
+    {
+      "start_time": 58,
+      "end_time": 62,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Don't you hear me calling you, Don't you hear me calling you, Miss Honey?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "d3f5c722-eb3a-4e00-b448-9cdc2d790bf9"
+    },
+    {
+      "start_time": 63,
+      "end_time": 64,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The bitch knew that I'd be back"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "138c7ec7-1cd3-4b53-a3c0-e013b3fe4a50"
+    },
+    {
+      "start_time": 65,
+      "end_time": 66,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "She knew that I was not gone long,"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "eeb6924c-4f07-48c1-9154-6df82819f7f7"
+    },
+    {
+      "start_time": 67,
+      "end_time": 70,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Miss Honey, Miss Honey"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "e91f271e-33f0-405d-8108-197044986139"
+    },
+    {
+      "start_time": 71,
+      "end_time": 72,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Where's the bitch, she's got some nerve"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "a3981783-bfae-41ff-94a6-08fac9cfb366"
+    },
+    {
+      "start_time": 73,
+      "end_time": 78,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Here I am and feeling fierce! Miss Honey"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "f7e62603-5b98-4a98-a5f9-dd2ad1a0243b"
+    },
+    {
+      "start_time": 79,
+      "end_time": 81,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Miss Honey, Miss Honey"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "63169611-7b03-4d20-b123-af1c20eb42f9"
+    },
+    {
+      "start_time": 82,
+      "end_time": 86,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Miss Honey, Miss Honey"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "116733f0-3d6b-45ec-94d4-b3d5023d5d06"
+    },
+    {
+      "start_time": 87,
+      "end_time": 89,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Miss Honey, Honey, Honey, Miss Honey"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "03567c72-e332-48b9-b3de-af8574c67d1b"
+    },
+    {
+      "start_time": 90,
+      "end_time": 93,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Miss Honey, Honey, Honey, Miss Honey"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "f93c77d5-42f5-48b6-b06a-f356330a963d"
+    }
+  ],
   "event_id": "19919b57-f3f2-4582-ab40-82f00f3b1975",
   "set": "Transcription",
   "source_id": "bfc2ae3d-fa3e-49f4-9ff9-7c49f6c3d77c"
