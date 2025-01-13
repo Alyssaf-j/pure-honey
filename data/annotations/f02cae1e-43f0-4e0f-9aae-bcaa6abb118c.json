@@ -433,22 +433,6 @@
       "uuid": "5813b22f-276d-4f9e-83a0-48d45bbb0603"
     },
     {
-      "start_time": 73,
-      "end_time": 78,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Here I am and feeling fierce! Miss Honey"
-            }
-          ]
-        }
-      ],
-      "tags": [],
-      "uuid": "b5fb7a30-694c-4060-8ce0-deadc3ca14ae"
-    },
-    {
       "start_time": 79,
       "end_time": 81,
       "annotation": [
