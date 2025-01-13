@@ -417,22 +417,6 @@
       "uuid": "f93c77d5-42f5-48b6-b06a-f356330a963d"
     },
     {
-      "start_time": 65,
-      "end_time": 66,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "She knew that I was not gone long,"
-            }
-          ]
-        }
-      ],
-      "tags": [],
-      "uuid": "bc0ae2ab-0c6c-4c14-8be2-b5266b581768"
-    },
-    {
       "start_time": 67,
       "end_time": 70,
       "annotation": [
