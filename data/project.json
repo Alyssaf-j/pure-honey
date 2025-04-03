@@ -4,7 +4,19 @@
     "publish_sha": "",
     "publish_iso_date": ""
   },
-  "users": [],
+  "users": [
+    {
+      "login_name": "Alyssaf-j",
+      "avatar_url": "https://avatars.githubusercontent.com/u/181769394?v=4",
+      "admin": true
+    },
+    {
+      "login_name": "tanyaclement",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1213771?v=4",
+      "admin": false,
+      "not_accepted": true
+    }
+  ],
   "project": {
     "github_org": "Alyssaf-j",
     "title": "Master's Report Pedagogy ",
@@ -104,7 +116,7 @@
     },
     "created_at": "2024-10-18T01:42:33.245Z",
     "updated_at": "2025-01-13T20:43:44.609Z",
-    "generate_pages_site": false,
+    "generate_pages_site": true,
     "is_private": false
   },
   "is_private": false
